@@ -1,3 +1,3 @@
 ```bash
-[git clone https://github.com/LazyVim/starter](https://github.com/fobus89/nvim_cfg.git) ~/.config/nvim
+git clone https://github.com/fobus89/nvim_cfg.git ~/.config/nvim
 ```
